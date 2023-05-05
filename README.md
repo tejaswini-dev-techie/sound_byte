@@ -16,6 +16,7 @@ This app allows users to record audio and play back their recordings. It's a sim
 
 1. Record audio using the device's microphone
 2. Play back recorded audio
+3. Delete recorded audio
 
 ### Technologies
 Project is created with:
