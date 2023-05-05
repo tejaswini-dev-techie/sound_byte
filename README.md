@@ -14,10 +14,8 @@ This app allows users to record audio and play back their recordings. It's a sim
 
 ### Features
 
-1. Sign up and sign in using email and password
-2. Real-time messaging between users
-3. Notifications for new messages
-4. View profile information of other users
+1. Record audio using the device's microphone
+2. Play back recorded audio
 
 ### Technologies
 Project is created with:
