@@ -1,16 +1,39 @@
-# audio_record_play_prj
+# Sound Byte
 
-A new Flutter project.
+## Welcome to our Sound Byte App built using Flutter!
 
-## Getting Started
+## General info
+This app allows users to record audio and play back their recordings. It's a simple and user-friendly app that can be used for a variety of purposes, such as recording lectures, or personal notes. Here's a quick guide to help you get started:
 
-This project is a starting point for a Flutter application.
+### Installation
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the project from our Github repository: https://github.com/tejaswini-dev-techie/sound_byte
+2. Install Flutter 1.17.4 on your machine
+3. Open the project in your preferred IDE (we recommend using Android Studio or Visual Studio Code)
+4. Run the app on an emulator or physical device
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Sign up and sign in using email and password
+2. Real-time messaging between users
+3. Notifications for new messages
+4. View profile information of other users
+
+### Technologies
+Project is created with:
+* Flutter version: 3.7.9
+* Dart version 2.19.6
+* DevTools version 2.20.1
+* Android SDK version 33.0.0
+* Xcode 14.2
+* CocoaPods version 1.11.2
+
+### Flutter Plugin
+* sizer: ^2.0.15
+* record: ^4.4.3
+* flutter_bloc: ^8.1.1
+* path_provider: ^2.0.11
+* permission_handler: ^10.2.0
+* audioplayers: ^3.0.1
+
+
