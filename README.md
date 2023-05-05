@@ -8,7 +8,7 @@ This app allows users to record audio and play back their recordings. It's a sim
 ### Installation
 
 1. Clone the project from our Github repository: https://github.com/tejaswini-dev-techie/sound_byte
-2. Install Flutter 1.17.4 on your machine
+2. Install Flutter 3.7.9 on your machine
 3. Open the project in your preferred IDE (we recommend using Android Studio or Visual Studio Code)
 4. Run the app on an emulator or physical device
 
